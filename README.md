@@ -1,61 +1,62 @@
-# [📡 Number-Tracker ](https://github.com/shivang21007/Number-Tracker)
-This is phone-number tracking pyhton script. You can get some useful information about any phone-number(including international phone-numbers).
-This script is using some pyhton modules like geocoder, phonenumbers, folium and opencage api to gather data.
-This is script also show you location of the number on map.
+# [📡 LacakNomor ](https://github.com/maskhanir/LacakNomor)
+Ini adalah script python pelacakan nomor telepon. Anda bisa mendapatkan beberapa informasi berguna tentang nomor telepon apa pun (termasuk nomor telepon internasional).
+script ini menggunakan beberapa modul python seperti geocode
+Ini adalah script python pelacakan nomor telepon. Anda bisa mendapatkan beberapa informasi berguna tentang nomor telepon apa pun (termasuk nomor telepon internasional).
+script ini menggunakan beberapa modul python seperti geocoder
 </br>
 
-![pyhton snipit](https://github.com/shivang21007/Number-Tracker/assets/98748694/81f68fb4-9e7f-46e1-8e8e-0204bac63028)
+![pyhton snipit](https://files.catbox.moe/f3armq.jpg)
 
 
 
 
-# 🛠️ Installation Guidelines:
+# 🛠️ Pedoman Installasi:
 
-1. Fork the project. Click on the icon on the top right to get started
+1. Fork proyek. Klik ikon di kanan atas untuk memulai
 
-2. Clone the project, you can use the following command on your local terminal:
+2. Cloning proyek, Anda dapat menggunakan perintah berikut di terminal lokal Anda:
  
    ```bash
-   git clone https://github.com/your-user-name/Number-Tracker.git
+   git clone https://github.com/maskhanid/LacakNomor.git
    ```
-3. Also don't forget to give star to codebase after using it ✨.
+3. Jangan lupa juga untuk memberi bintang pada codebase setelah menggunakannya ✨.
 
    
 
-# 📌 To install Pyhton Dependencies
-1. First make sure you have install python in your local system.
- [click here to download pyhton](https://www.python.org/downloads/)
+# 📌 Untuk menginstal Ketergantungan Python
+1. Pertama, pastikan Anda telah menginstal python di sistem lokal Anda.
+[klik di sini untuk mengunduh python](https://www.python.org/downloads/)
 
-2. Go to your code folder and in terminal run -
-3.  For Phonenumbers Library -
+2. Buka folder kode Anda dan jalankan di terminal -
+3. Untuk Perpustakaan Nomor Telepon -
     ```bash
     pip install phonenumbers
     ```
-4. For Geocoder Library -
+4. Untuk Perpustakaan Geocoder -
    ```bash
    pip install geocoder
    ```
-5. For Opencage API -
+5. Untuk API Opencage -
    ```bash
    pip install opencage
    ```
-6. For Folium Library -
+6. Untuk Perpustakaan Folium -
    ```bash
    pip install folium
    ```
-# OpenCage API key
-1. Go to [OpenCage Site](https://opencagedata.com/).
-2. Signin and Get you api-key. 
-3. Create a "key.py" file .
-4. And paste your api-key there like this - 
+# Kunci API OpenCage
+1. Buka [Situs OpenCage](https://opencagedata.com/).
+2. Masuk dan dapatkan kunci api Anda.
+3. Buat file "key.py".
+4. Tempel kunci api Anda di sana seperti ini - 
    ```bash
    keys = "Enter-your-API-Key"
    ```
-# 💻 To Start the Application on your local system.
-1. Just execute the main.py file.
-2. enter you no. with country code - 
+# 💻 Untuk memulai Aplikasi di sistem lokal Anda.
+1. Jalankan saja file main.py.
+2. masukkan nomor Anda dengan kode negara -
    ```bash
-   +91 XXXXXXXXXX
+   +62 XXXXXXXXXX
    ```
-3. And script will display the information in your terminal and also show you on the map.
-4. If map doesn't open automatically in browser, Just click the "mylocation.html" manually.
+3. Dan script akan menampilkan informasi di terminal Anda dan juga menunjukkannya di peta.
+4. Jika peta tidak terbuka secara otomatis di browser, cukup klik "mylocation.html" secara manual.
