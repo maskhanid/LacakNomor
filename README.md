@@ -1,4 +1,4 @@
-# [📡 LacakNomor ](https://github.com/maskhanir/LacakNomor)
+# [📡 LacakNomor ](https://github.com/maskhanid/LacakNomor)
 Ini adalah script python pelacakan nomor telepon. Anda bisa mendapatkan beberapa informasi berguna tentang nomor telepon apa pun (termasuk nomor telepon internasional).
 script ini menggunakan beberapa modul python seperti geocode
 Ini adalah script python pelacakan nomor telepon. Anda bisa mendapatkan beberapa informasi berguna tentang nomor telepon apa pun (termasuk nomor telepon internasional).
